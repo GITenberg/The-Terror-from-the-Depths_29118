@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9555
 description: Commander John Hanson challenges an appalling denizen of the watery world
   Hydrot.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29118#The-Terror-from-the-Depths
 gutenberg_bookshelf:
 - Science Fiction
 - Astounding Stories
